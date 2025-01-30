@@ -1,9 +1,9 @@
 # What is CS61B
 
-CS61B, offered by UC Berkeley, is a course on algorithm and data sturcture. Out of interest, I dived into the 18spring version of the course and put my materials here.
+CS61B, offered by UC Berkeley, is a course on algorithms and data structures. Out of interest, I dived  into the Spring 2018 version of the course in Jan 2025 and have included my materials here.
 
 [The official website](https://sp18.datastructur.es/)
 
-The commitment of the professor at UC Berkeley is appreciated. Their work truly adds magic to the CS society and far beyond.
+I appreciate the dedication of the professor at UC Berkeley. Their work truly adds value to the CS community and beyond.
 
-For any complain about copyright or the like, I am happy to be find at mingtian07260@gmail.com
+For any copyright complaints or similar issues, please contact me at mingtian07260@gmail.com.
